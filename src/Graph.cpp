@@ -75,7 +75,7 @@ void Graph::addVertex(string source, map<string, int> &adjList) {
 }
 
 /** 
- * Removes a vertex and its adjacency list from the graph
+ * Removes a vertex and its adjacency list from the graph.
  * @param source source(start) node
  * @return true if source node is removed and false otherwise
  */
@@ -93,7 +93,7 @@ bool Graph::removeVertex(string source) {
 }
 
 /** 
- * Checks if a given source node is in the graph
+ * Checks if a given source node is in the graph.
  * @param source source(start) node
  * @return true if source node is in the graph and false otherwise
  */
@@ -102,7 +102,7 @@ bool Graph::contains(string source) {
 }
 
 /** 
- * Checks if a there is an edge between source node and a destination node
+ * Checks if a there is an edge between source node and a destination node.
  * @param source source(start) node
  * @param destination destination node
  * @return true if there is an edge and false otherwise.
