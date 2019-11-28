@@ -9,7 +9,7 @@ Using the path to the input file specified as the command line argument, this pr
 ```
 git clone https://github.com/gerardklee/shortest-path-finder.git
 ```
-2. Have the CSV file ready. First column is start vertex, second column is destination vertex, and third column is weight.
+2. Have the CSV file ready; First column is start vertex, second column is destination vertex, and third column is weight.
 ```
 los angeles,san francisco,4,
 new york,san francisco, 14,
