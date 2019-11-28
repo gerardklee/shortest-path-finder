@@ -49,6 +49,8 @@ int main(int arc, char* argv[]) {
 
         // if you want to see {vertex: {destination:cost}} pair, uncomment below
         //graph.printPair();
+        // line below calculates the shortest path from a start node to a destination node
+        // first argument is a start node and second argument is a destination node
         //graph.shortestPath("A", "F");
     }
 }
