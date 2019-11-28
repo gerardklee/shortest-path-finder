@@ -1,0 +1,186 @@
+An Giang,Chau Doc,1
+An Giang,Kien Phong,1
+An Giang,Sa Dec,1
+An Giang,Phong Dinh,1
+An Giang,Kien Giang,1
+An Xuyen,Kien Giang,1
+An Xuyen,Chuong Thien,1
+An Xuyen,Bac Lieu,1
+Ba Xuyen,Vinh Long,1
+Ba Xuyen,Vinh Binh,1
+Ba Xuyen,Bac Lieu,1
+Ba Xuyen,Chuong Thien,1
+Ba Xuyen,Phong Dinh,1
+Bac Lieu,Chuong Thien,1
+Bac Lieu,Ba Xuyen,1
+Bac Lieu,An Xuyen,1
+Binh Dinh,Kontum,1
+Binh Dinh,Pleiku,1
+Binh Dinh,Phu Bon,1
+Binh Dinh,Phu Yen,1
+Binh Duong,Binh Long,1
+Binh Duong,Phuoc Long,1
+Binh Duong,Long Khanh,1
+Binh Duong,Bien Hoa,1
+Binh Duong,Gia Dinh,1
+Binh Duong,Hau Nghia,1
+Binh Duong,Tay Ninh,1
+Bien Hoa,Long Khanh,1
+Bien Hoa,Phuoc Tuy,1
+Bien Hoa,Gia Dinh,1
+Bien Hoa,Binh Duong,1
+Binh Long,Phuoc Long,1
+Binh Long,Binh Duong,1
+Binh Long,Tay Ninh,1
+Binh Thuan,Tuyen Duc,1
+Binh Thuan,Ninh Thuan,1
+Binh Thuan,Binh Tuy,1
+Binh Thuan,Lam Dong,1
+Binh Tuy,Lam Dong,1
+Binh Tuy,Binh Thuan,1
+Binh Tuy,Phuoc Tuy,1
+Binh Tuy,Long Khanh,1
+Chau Doc,Kien Phong,1
+Chau Doc,An Giang,1
+Chau Doc,Kien Giang,1
+Chuong Thien,Phong Dinh,1
+Chuong Thien,Ba Xuyen,1
+Chuong Thien,Bac Lieu,1
+Chuong Thien,An Xuyen,1
+Darlac,Pleiku,1
+Darlac,Phu Bon,1
+Darlac,Phu Yen,1
+Darlac,Khanh Hoa,1
+Darlac,Quang Duc,1
+Darlac,Tuyen Duc,1
+Darlac,Khanh Hoa,1
+Dinh Tuong,Kien Tuong,1
+Dinh Tuong,Go Cong,1
+Dinh Tuong,Kien Hoa,1
+Dinh Tuong,Vinh Long,1
+Dinh Tuong,Sa Dec,1
+Dinh Tuong,Kien Phong,1
+Gia Dinh,Binh Duong,1
+Gia Dinh,Bien Hoa,1
+Gia Dinh,Phuoc Tuy,1
+Gia Dinh,Long An,1
+Gia Dinh,Hau Nghia,1
+Go Cong,Long An,1
+Go Cong,Dinh Tuong,1
+Go Cong,Kien Hoa,1
+Hau Nghia,Tay Ninh,1
+Hau Nghia,Binh Duong,1
+Hau Nghia,Gia Dinh,1
+Hau Nghia,Long An,1
+Hau Nghia,Kien Tuong,1
+Khanh Hoa,Phu Yen,1
+Khanh Hoa,Darlac,1
+Khanh Hoa,Tuyen Duc,1
+Khanh Hoa,Ninh Thuan,1
+Kien Giang,Chau Doc,1
+Kien Giang,An Giang,1
+Kien Giang,Phong Dinh,1
+Kien Giang,Chuong Thien,1
+Kien Giang,An Xuyen,1
+Kien Hoa,Go Cong,1
+Kien Hoa,Dinh Tuong,1
+Kien Hoa,Vinh Binh,1
+Kien Hoa,Vinh Long,1
+Kien Phong,Kien Tuong,1
+Kien Phong,Dinh Tuong,1
+Kien Phong,Sa Dec,1
+Kien Phong,An Giang,1
+Kien Phong,Chau Doc,1
+Kien Tuong,Hau Nghia,1
+Kien Tuong,Long An,1
+Kien Tuong,Dinh Tuong,1
+Kien Tuong,Kien Phong,1
+Kontum,Quang Tin,1
+Kontum,Quang Ngai,1
+Kontum,Binh Dinh,1
+Kontum,Pleiku,1
+Lam Dong,Quang Duc,1
+Lam Dong,Tuyen Duc,1
+Lam Dong,Binh Thuan,1
+Lam Dong,Binh Tuy,1
+Lam Dong,Long Khanh,1
+Lam Dong,Phuoc Long,1
+Long An,Kien Tuong,1
+Long An,Hau Nghia,1
+Long An,Gia Dinh,1
+Long An,Go Cong,1
+Long An,Dinh Tuong,1
+Long Khanh,Phuoc Long,1
+Long Khanh,Binh Tuy,1
+Long Khanh,Phuoc Tuy,1
+Long Khanh,Bien Hoa,1
+Long Khanh,Binh Duong,1
+Long Khanh,Phuoc Long,1
+Ninh Thuan,Khanh Hoa,1
+Ninh Thuan,Tuyen Duc,1
+Ninh Thuan,Binh Thuan,1
+Phu Bon,Pleiku,1
+Phu Bon,Binh Dinh,1
+Phu Bon,Phu Yen,1
+Phu Bon,Darlac,1
+Phu Yen,Binh Dinh,1
+Phu Yen,Phu Bon,1
+Phu Yen,Darlac,1
+Phu Yen,Khanh Hoa,1
+Phong Dinh,Sa Dec,1
+Phong Dinh,Vinh Long,1
+Phong Dinh,Ba Xuyen,1
+Phong Dinh,Chuong Thien,1
+Phong Dinh,Kien Giang,1
+Phong Dinh,An Giang,1
+Phuoc Long,Quang Duc,1
+Phuoc Long,Lam Dong,1
+Phuoc Long,Long Khanh,1
+Phuoc Long,Binh Duong,1
+Phuoc Long,Binh Long,1
+Phuoc Tuy,Long Khanh,1
+Phuoc Tuy,Binh Tuy,1
+Phuoc Tuy,Gia Dinh,1
+Phuoc Tuy,Bien Hoa,1
+Pleiku,Kontum,1
+Pleiku,Binh Dinh,1
+Pleiku,Phu Bon,1
+Pleiku,Darlac,1
+Quang Duc,Darlac,1
+Quang Duc,Tuyen Duc,1
+Quang Duc,Lam Dong,1
+Quang Duc,Phuoc Long,1
+Quang Ngai,Quang Tin,1
+Quang Ngai,Kontum,1
+Quang Ngai,Binh Dinh,1
+Quang Nam,Thua Thien,1
+Quang Nam,Quang Tin,1
+Quang Tin,Quang Nam,1
+Quang Tin,Quang Ngai,1
+Quang Tin,Kontum,1
+Quang Tri,Thua Thien,1
+Sa Dec,Kien Phong,1
+Sa Dec,Dinh Tuong,1
+Sa Dec,Vinh Long,1
+Sa Dec,Phong Dinh,1
+Sa Dec,An Giang,1
+Tay Ninh,Binh Long,1
+Tay Ninh,Binh Duong,1
+Tay Ninh,Hau Nghia,1
+Thua Thien,Quang Tri,1
+Thua Thien,Quang Nam,1
+Tuyen Duc,Darlac,1
+Tuyen Duc,Khanh Hoa,1
+Tuyen Duc,Ninh Thuan,1
+Tuyen Duc,Binh Thuan,1
+Tuyen Duc,Lam Dong,1
+Tuyen Duc,Quang Duc,1
+Vinh Binh,Vinh Long,1
+Vinh Binh,Kien Hoa,1
+Vinh Binh,Ba Xuyen,1
+Vinh Long,Dinh Tuong,1
+Vinh Long,Kien Hoa,1
+Vinh Long,Vinh Binh,1
+Vinh Long,Ba Xuyen,1
+Vinh Long,Phong Dinh,1
+Vinh Long,Sa Dec,1
