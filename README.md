@@ -9,3 +9,16 @@ Using the path to the input file specified as the command line argument, this pr
 ```
 git clone https://github.com/gerardklee/shortest-path-finder.git
 ```
+2. Have the CSV file ready. First column is start vertex, second column is destination vertex, and third column is weight.
+```
+los angeles,san francisco,4,
+new york,san francisco, 14,
+new york, mississippi,4
+```
+3. Compile the program and output it. In this example, the output is named as graph
+```
+g++ Driver.cpp Graph.cpp -o graph
+```
+4. Run
+```
+./graph path_to_CSV_file
